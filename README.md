@@ -1,5 +1,3 @@
-# Nissa's-profile
-
 ### 👋 Hi, I'm Nabilah Khoirun Nissa
 
 🎓 Currently learning **Data Science** at Rakamin Academy  
